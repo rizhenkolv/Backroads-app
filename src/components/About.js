@@ -27,7 +27,7 @@ function About() {
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
             quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor
+            unde dolor!
           </p>
           <a href='#' className='btn'>
             read more
